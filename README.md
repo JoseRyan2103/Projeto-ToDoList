@@ -12,7 +12,7 @@ Marcar como Concluído: Marque as tarefas como concluídas para acompanhar seu p
 Remover Tarefa: Remova tarefas concluídas ou aquelas que não são mais relevantes.
 
 Configuração do Ambiente de Desenvolvimento
-Certifique-se de ter o Java e o Spring Boot instalados em sua máquina antes de executar o projeto. Você pode encontrar instruções detalhadas nos sites oficiais:
+Certifique-se de ter o Java e o Spring Boot instalados em sua máquina antes de executar o projeto.
 
 • Java
 
